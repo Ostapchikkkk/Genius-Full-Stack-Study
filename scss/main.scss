@@ -1,0 +1,33 @@
+// Utils
+@import "./utils/color";
+@import "./utils/fonts";
+@import "./utils/texts";
+@import "./utils/utils";
+@import "./utils/variables";
+
+// Base
+@import "./base";
+
+// Components
+@import "./components/buttons";
+@import "./components/carousel-button";
+@import "./components/chief-card";
+@import "./components/format-card";
+@import "./components/input";
+@import "./components/links";
+@import "./components/pagination";
+
+// Layouts
+@import "./layouts/advantages-section";
+@import "./layouts/chiefs-section";
+@import "./layouts/contact-section";
+@import "./layouts/container";
+@import "./layouts/footer";
+@import "./layouts/form-terms";
+@import "./layouts/formats-section";
+@import "./layouts/header";
+@import "./layouts/hero-section";
+@import "./layouts/mobile-menu";
+@import "./layouts/modal";
+@import "./layouts/section";
+@import "./layouts/traditions-section";
